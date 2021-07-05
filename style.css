@@ -1,6 +1,7 @@
 body{
     margin: 0;
-    font-family: 'Noto Sans JP', sans-serif;
+    font-family: 'Inter', sans-serif;
+    
 
 }
 h1{
@@ -30,11 +31,36 @@ h1{
     text-decoration: none;
     color: white;
     font-size: larger;
-    background-image: linear-gradient(yellow,tomato);
+    background-image: linear-gradient(orange,tomato);
     padding: 20px 40px;
     font-weight: 400px;
     border-radius: 30px;
+    box-shadow: ;
+    box-shadow: 10px 10px 60px  rgb(247, 215, 157);
 }
 img{
     width: 100%;
+}
+#about{
+    font-size: 20px;
+    padding-bottom: 10%;
+}
+#aboutpic{
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.fd{
+    background-image: url(images/7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.halfwidth{
+    width: 60%;
+}
+h2{
+    color: rgb(138, 136, 136);
+    font-size: 40px;
+    margin-top: 30%;
 }
