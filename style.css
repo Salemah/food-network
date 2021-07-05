@@ -35,7 +35,7 @@ h1{
     padding: 20px 40px;
     font-weight: 400px;
     border-radius: 30px;
-    box-shadow: ;
+    
     box-shadow: 10px 10px 60px  rgb(247, 215, 157);
 }
 img{
@@ -64,3 +64,34 @@ h2{
     font-size: 40px;
     margin-top: 30%;
 }
+.services{
+    text-align: center;
+}
+#recipies{
+    text-align: center;
+    font-size: 25px;
+    width: 50%;;
+    margin: auto;
+}
+.sr{
+    width: 35%;
+    
+    box-shadow: 10px 10px 40px;
+    border-radius: 20px;
+    padding: 20px;
+    margin-right: 5%;
+   
+ 
+   
+}
+.bottom{
+    
+        display: flex;
+        margin-bottom: 100px;
+        padding-left: 5%;
+        padding-top:5% ;
+   
+}
+
+
+
