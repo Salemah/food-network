@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    font-family: 'Noto Sans JP', sans-serif;
+
+}
+h1{
+    font-size: 50px;
+    font-weight:bold;
+    margin-top: 20%;
+}
+.skip{
+    color: tomato;
+}
+#Imagine{
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.top{
+    display: flex;
+    margin-bottom: 100px;
+    padding-left: 10%;
+    padding-right: 5%;
+}
+.Halfwidthtop{
+    width: 50%;
+    
+    
+}
+.orderfood{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+    background-image: linear-gradient(yellow,tomato);
+    padding: 20px 40px;
+    font-weight: 400px;
+    border-radius: 30px;
+}
+img{
+    width: 100%;
+}
